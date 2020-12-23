@@ -1,0 +1,2 @@
+# Simulasi-Modul-Bluetooth-pada-Proteus
+Bluetooth adalah standar untuk komunikasi nirkabel. Dengan standar komunikasi nirkabel, ini berarti bahwa  Bluetooth harus memiliki seperangkat aturan/protokol yang terdiri dari protokol komunikasi nirkabel dan /protokol yang diperlukan untuk komunikasi nirkabel, dan /protokol adalah inti dari teknologi Bluetooth yang membuatnya unik di antara standar komunikasi nirkabel lainnya. Bluetooth bekerja dari frekuensi antara 2402 dan 2480 megahertz. 
